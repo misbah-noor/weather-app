@@ -6,7 +6,8 @@ function App() {
  
   return (
     <>
-    <div className='app min-h-screen bg-gray-400 flex justify-center items-center flex-col'>
+    <div className='app min-h-screen bg-gradient-to-t from-blue-950 via-blue-300 to-gray-800 flex justify-center items-center flex-col'>
+      <h2 className='text-3xl md:text-5xl font-semibold text-white py-4 mb-6'>Weather App</h2>
      <WeatherForm />
      </div>
     </>

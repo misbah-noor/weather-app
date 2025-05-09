@@ -4,3 +4,11 @@
  .app{
   font-family: "Barlow", sans-serif;
 }
+
+.main-image{
+  filter: drop-shadow(5px 2px 1px #f5f5f5);
+}
+
+.input-text{
+   box-shadow: inset 1px 1px 5px 1px #7cb0d1;
+}
